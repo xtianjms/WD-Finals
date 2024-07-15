@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+My digital canvas for showcasing my journey and accomplishments.
 </div>
 
 <br />
@@ -61,9 +61,24 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+The project is a personal portfolio website, showcasing my journey and accomplishments as a student in the field of Information Technology. This website serves as a digital canvas where I can display my skills, experiences, and achievements, and share them with others. It is a culmination of my learning experiences, projects, and accomplishments throughout my academic journey.
+
+The website is designed to provide an overview of my background, interests, and skills, as well as to showcase my projects and achievements in the field of IT. It includes various sections, such as a homepage, about page, portfolio page, and contact page, which provide a comprehensive view of my experiences and skills.
+
+Through this project, I aim to demonstrate my ability to design and develop a website using HTML, CSS, and JavaScript, as well as to showcase my creativity, problem-solving skills, and attention to detail. The website is also intended to serve as a platform for me to share my knowledge and experiences with others, and to connect with like-minded individuals in the field of IT.
 - Whats the purpose
+The purpose of this project is to create a digital canvas where I can display my experiences, and achievements, and to share it with others.
 - What are key components
+A multi-page website with a navigation menu
+A homepage that introduces myself and my portfolio
+An about page that provides more information about my background and interests
+A portfolio page that showcases my projects and achievements
+A contact page that allows visitors to get in touch with me
+A responsive design that adapts to different screen sizes and devices
 - What technology used and how it is used
+HTML for structuring and organizing content
+CSS for styling and layout
+GitHub Pages for hosting and deploying the website
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -118,3 +133,11 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+## Wakatime
+<div align="center" float="left">
+  <p>
+    <img align="center" src="https://wakatime.com/@xtianjms" alt="xtianjms" width=400 />
+  </p>
+  
+</div>
