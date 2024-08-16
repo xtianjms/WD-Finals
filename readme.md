@@ -137,7 +137,14 @@ WD-ProjectName
 ## Wakatime
 <div align="center" float="left">
   <p>
-    <img align="center" src="https://wakatime.com/@xtianjms" alt="xtianjms" width=400 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtianjms&show_icons=true&theme=dark" alt="xtianjms" width=400 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtianjms&layout=compact&theme=dark" alt="xtianjms" width=310 />
   </p>
-  
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtianjms&theme=radical&hide_border=false" alt="xtianjms" width=430 />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xtianjms&theme=tokyonight&utcOffset=+08" alt="xtianjms" width=310 />
+  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtianjms&theme=tokyonight" alt="xtianjms" style="max-width: 100%;border: 1px solid white;border-radius: 6px;" width=600></img>
+
+  <br/>
 </div>
