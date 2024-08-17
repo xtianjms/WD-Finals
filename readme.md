@@ -83,12 +83,17 @@ GitHub Pages for hosting and deploying the website
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-
+- multi-page website with a navigation menu
+- homepage that introduces myself and my portfolio
+- about page that provides more information about me
+- portfolio page that showcases my projects and achievements
+- contact page that allows visitors to get in touch with me
+- responsive design that adapts to different screen sizes and devices
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
