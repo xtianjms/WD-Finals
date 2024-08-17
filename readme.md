@@ -82,7 +82,7 @@ GitHub Pages for hosting and deploying the website
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
 
