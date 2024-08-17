@@ -83,8 +83,6 @@ GitHub Pages for hosting and deploying the website
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -131,7 +129,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Color Palettes | Ideas of colors | https://onextstudio.com/wp-content/uploads/2024/04/aesthetic-color-palettes-chart-with-names-and-hex-codes.png |
 
 ## Wakatime
 <div align="center" float="left">
